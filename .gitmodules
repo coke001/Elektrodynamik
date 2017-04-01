@@ -1,3 +1,6 @@
 [submodule "cld"]
 	path = cld
 	url = https://github.com/Painkilla/VU-351.019-Elektrodynamik-cld.git
+[submodule "conf"]
+	path = conf
+	url = https://github.com/Painkilla/conf.git

@@ -1,1 +1,4 @@
-Die Lösungen zu den Prüfungsbeispielen finden sich im /cld/out/exm/bsp/ Ordner. 
+VU-351.019-Elektrodynamik-*.pdf befindet sich im nicht öffentlichen (geschlossenen) Teil des Repository.
+/cld/out/exm/bsp/VU-351.019-Elektrodynamik-*.pdf
+
+Anfragen zum freischalten an Painkilla.
